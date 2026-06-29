@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Roofing Corporation Website",
+  "description": "Premium corporate website for Atlas Roofing Corporation, a reliable roofing material manufacturer in Northglenn, Colorado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
